@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión",
+    "backToHome": "Volver al Inicio"
+  },
+  "checker": {
+    "title": "Verificador de Interacciones Medicamentosas",
+    "subtitle": "Agregue medicamentos para verificar posibles interacciones. Nuestra IA analizará y explicará cualquier riesgo.",
+    "addMedications": "Agregar Medicamentos",
+    "searchPlaceholder": "Buscar un medicamento...",
+    "selectedDrugs": "Medicamentos Seleccionados",
+    "emptyState": "Busque y agregue medicamentos arriba para comenzar",
+    "addAtLeastOne": "Agregue al menos un medicamento más para verificar interacciones",
+    "checkInteractions": "Verificar Interacciones",
+    "analyzing": "Analizando...",
+    "noAnalysisYet": "Sin Análisis Aún",
+    "noAnalysisDescription": "Agregue al menos 2 medicamentos y haga clic en \"Verificar Interacciones\" para ver posibles interacciones medicamentosas con explicaciones impulsadas por IA.",
+    "analyzingInteractions": "Analizando Interacciones",
+    "analyzingDescription": "Nuestra IA está analizando posibles interacciones entre sus medicamentos seleccionados..."
+  },
+  "results": {
+    "title": "Resultados del Análisis de Interacciones",
+    "found": "{{count}} interacción encontrada",
+    "found_plural": "{{count}} interacciones encontradas",
+    "noInteractions": "No Se Encontraron Interacciones Conocidas",
+    "noInteractionsDescription": "Nuestro análisis no encontró interacciones conocidas entre los medicamentos seleccionados:",
+    "disclaimer": "Esta información se proporciona solo con fines educativos e investigativos. No pretende reemplazar el consejo médico profesional. Siempre consulte con un profesional de la salud calificado antes de tomar decisiones sobre medicamentos.",
+    "mechanism": "Mecanismo de Interacción",
+    "clinicalEffects": "Efectos Clínicos",
+    "recommendations": "Recomendaciones Clínicas",
+    "citations": "Fuentes y Citas",
+    "alternatives": "Alternativas Sugeridas",
+    "alternativesDescription": "Considere estas alternativas más seguras:",
+    "viewDrugInfo": "Ver Info del Medicamento"
+  },
+  "savedLists": {
+    "title": "Listas Guardadas",
+    "saveCurrent": "Guardar Actual",
+    "saveDialog": {
+      "title": "Guardar Lista de Medicamentos",
+      "description": "Guarde su selección actual de {{count}} medicamento(s) para acceso rápido más tarde.",
+      "placeholder": "Ingrese nombre de la lista...",
+      "medications": "Medicamentos:",
+      "cancel": "Cancelar",
+      "save": "Guardar Lista",
+      "saving": "Guardando..."
+    },
+    "noLists": "Aún no hay listas guardadas. Guarde su selección actual para comenzar.",
+    "signInRequired": "Inicie sesión para guardar y cargar listas de medicamentos",
+    "medications": "{{count}} medicamento(s)",
+    "listSaved": "Lista guardada",
+    "listLoaded": "Lista cargada",
+    "listDeleted": "Lista eliminada"
+  },
+  "history": {
+    "title": "Análisis Recientes",
+    "signInRequired": "Inicie sesión para ver el historial de interacciones",
+    "noHistory": "Aún no hay historial de análisis. Sus análisis anteriores aparecerán aquí."
+  },
+  "dosage": {
+    "title": "Mis Medicamentos",
+    "add": "Agregar",
+    "signInRequired": "Inicie sesión para rastrear dosis de medicamentos",
+    "noMedications": "Aún no hay medicamentos rastreados. Agregue su primer medicamento arriba.",
+    "dialog": {
+      "addTitle": "Agregar Medicamento",
+      "editTitle": "Editar Medicamento",
+      "addDescription": "Agregue un nuevo medicamento para rastrear su dosis.",
+      "editDescription": "Actualice la información de dosis para este medicamento.",
+      "drugName": "Nombre del Medicamento",
+      "dosage": "Dosis",
+      "frequency": "Frecuencia",
+      "startDate": "Fecha de Inicio",
+      "notes": "Notas (opcional)",
+      "cancel": "Cancelar",
+      "add": "Agregar Medicamento",
+      "update": "Actualizar",
+      "saving": "Guardando..."
+    }
+  },
+  "drugInfo": {
+    "title": "Información del Medicamento",
+    "loading": "Cargando información del medicamento...",
+    "overview": "Descripción General",
+    "sideEffects": "Efectos Secundarios Comunes",
+    "contraindications": "Contraindicaciones",
+    "dosingGuidelines": "Guías de Dosificación",
+    "warnings": "Advertencias y Precauciones",
+    "checkInteractions": "Verificar Interacciones"
+  },
+  "about": {
+    "title": "Acerca de esta herramienta",
+    "description": "Esta herramienta utiliza análisis impulsado por IA con datos de la FDA y bases de datos médicas. Los resultados deben ser verificados por profesionales de la salud."
+  },
+  "export": {
+    "button": "Exportar PDF",
+    "exporting": "Exportando...",
+    "success": "Reporte exportado",
+    "successDescription": "El reporte PDF se ha descargado exitosamente."
+  },
+  "severity": {
+    "critical": "Crítico",
+    "major": "Mayor",
+    "moderate": "Moderado",
+    "minor": "Menor"
+  },
+  "confidence": {
+    "high": "Alta Confianza",
+    "medium": "Confianza Media",
+    "low": "Baja Confianza"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "close": "Cerrar"
+  }
+}

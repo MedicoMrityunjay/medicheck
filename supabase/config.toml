@@ -1,0 +1,7 @@
+project_id = "aibakyppvubquxktvfws"
+
+[functions.analyze-interactions]
+verify_jwt = false
+
+[functions.drug-info]
+verify_jwt = false

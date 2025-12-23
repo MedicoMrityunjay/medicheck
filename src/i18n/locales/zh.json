@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "signIn": "登录",
+    "signOut": "退出",
+    "backToHome": "返回首页"
+  },
+  "checker": {
+    "title": "药物相互作用检查器",
+    "subtitle": "添加药物以检查潜在的相互作用。我们的AI将分析并解释任何风险。",
+    "addMedications": "添加药物",
+    "searchPlaceholder": "搜索药物...",
+    "selectedDrugs": "已选药物",
+    "emptyState": "在上方搜索并添加药物以开始",
+    "addAtLeastOne": "至少再添加一种药物以检查相互作用",
+    "checkInteractions": "检查相互作用",
+    "analyzing": "分析中...",
+    "noAnalysisYet": "尚无分析",
+    "noAnalysisDescription": "添加至少2种药物并点击检查相互作用以查看潜在的药物相互作用及AI驱动的解释。",
+    "analyzingInteractions": "正在分析相互作用",
+    "analyzingDescription": "我们的AI正在分析您选择的药物之间的潜在相互作用..."
+  },
+  "results": {
+    "title": "相互作用分析结果",
+    "found": "发现 {{count}} 个相互作用",
+    "found_plural": "发现 {{count}} 个相互作用",
+    "noInteractions": "未发现已知相互作用",
+    "noInteractionsDescription": "我们的分析未发现所选药物之间存在已知的相互作用:",
+    "disclaimer": "本信息仅供教育和研究目的。不能替代专业医疗建议。在做出任何药物决定之前,请务必咨询合格的医疗保健提供者。",
+    "mechanism": "相互作用机制",
+    "clinicalEffects": "临床效果",
+    "recommendations": "临床建议",
+    "citations": "来源与引用",
+    "alternatives": "建议替代品",
+    "alternativesDescription": "考虑这些更安全的替代品:",
+    "viewDrugInfo": "查看药物信息"
+  },
+  "savedLists": {
+    "title": "已保存列表",
+    "saveCurrent": "保存当前",
+    "saveDialog": {
+      "title": "保存药物列表",
+      "description": "保存您当前选择的 {{count}} 种药物以便快速访问。",
+      "placeholder": "输入列表名称...",
+      "medications": "药物:",
+      "cancel": "取消",
+      "save": "保存列表",
+      "saving": "保存中..."
+    },
+    "noLists": "尚无已保存的列表。保存您当前的选择以开始。",
+    "signInRequired": "登录以保存和加载药物列表",
+    "medications": "{{count}} 种药物",
+    "listSaved": "列表已保存",
+    "listLoaded": "列表已加载",
+    "listDeleted": "列表已删除"
+  },
+  "history": {
+    "title": "最近分析",
+    "signInRequired": "登录以查看相互作用历史",
+    "noHistory": "尚无分析历史。您过去的分析将显示在这里。"
+  },
+  "dosage": {
+    "title": "我的药物",
+    "add": "添加",
+    "signInRequired": "登录以跟踪药物剂量",
+    "noMedications": "尚未跟踪任何药物。在上方添加您的第一种药物。",
+    "dialog": {
+      "addTitle": "添加药物",
+      "editTitle": "编辑药物",
+      "addDescription": "添加新药物以跟踪其剂量。",
+      "editDescription": "更新此药物的剂量信息。",
+      "drugName": "药物名称",
+      "dosage": "剂量",
+      "frequency": "频率",
+      "startDate": "开始日期",
+      "notes": "备注(可选)",
+      "cancel": "取消",
+      "add": "添加药物",
+      "update": "更新",
+      "saving": "保存中..."
+    }
+  },
+  "drugInfo": {
+    "title": "药物信息",
+    "loading": "加载药物信息...",
+    "overview": "概述",
+    "sideEffects": "常见副作用",
+    "contraindications": "禁忌症",
+    "dosingGuidelines": "剂量指南",
+    "warnings": "警告与注意事项",
+    "checkInteractions": "检查相互作用"
+  },
+  "about": {
+    "title": "关于此工具",
+    "description": "此工具使用AI驱动的分析,结合FDA和医学数据库的数据。结果应由医疗保健专业人员验证。"
+  },
+  "export": {
+    "button": "导出PDF",
+    "exporting": "导出中...",
+    "success": "报告已导出",
+    "successDescription": "PDF报告已成功下载。"
+  },
+  "severity": {
+    "critical": "危急",
+    "major": "主要",
+    "moderate": "中等",
+    "minor": "轻微"
+  },
+  "confidence": {
+    "high": "高可信度",
+    "medium": "中可信度",
+    "low": "低可信度"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "close": "关闭"
+  }
+}

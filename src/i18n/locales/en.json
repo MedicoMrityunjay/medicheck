@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "backToHome": "Back to Home"
+  },
+  "checker": {
+    "title": "Drug Interaction Checker",
+    "subtitle": "Add drugs to check for potential interactions. Our AI will analyze and explain any risks.",
+    "addMedications": "Add Medications",
+    "searchPlaceholder": "Search for a medication...",
+    "selectedDrugs": "Selected Drugs",
+    "emptyState": "Search and add drugs above to begin",
+    "addAtLeastOne": "Add at least one more drug to check interactions",
+    "checkInteractions": "Check Interactions",
+    "analyzing": "Analyzing...",
+    "noAnalysisYet": "No Analysis Yet",
+    "noAnalysisDescription": "Add at least 2 medications and click \"Check Interactions\" to see potential drug-drug interactions with AI-powered explanations.",
+    "analyzingInteractions": "Analyzing Interactions",
+    "analyzingDescription": "Our AI is analyzing potential interactions between your selected medications..."
+  },
+  "results": {
+    "title": "Interaction Analysis Results",
+    "found": "{{count}} interaction found",
+    "found_plural": "{{count}} interactions found",
+    "noInteractions": "No Known Interactions Found",
+    "noInteractionsDescription": "Our analysis did not find any known interactions between the selected medications:",
+    "disclaimer": "This information is provided for educational and research purposes only. It is not intended to replace professional medical advice. Always consult with a qualified healthcare provider before making any medication decisions.",
+    "mechanism": "Mechanism of Interaction",
+    "clinicalEffects": "Clinical Effects",
+    "recommendations": "Clinical Recommendations",
+    "citations": "Sources & Citations",
+    "alternatives": "Suggested Alternatives",
+    "alternativesDescription": "Consider these safer alternatives:",
+    "viewDrugInfo": "View Drug Info"
+  },
+  "savedLists": {
+    "title": "Saved Lists",
+    "saveCurrent": "Save Current",
+    "saveDialog": {
+      "title": "Save Medication List",
+      "description": "Save your current selection of {{count}} medication(s) for quick access later.",
+      "placeholder": "Enter list name...",
+      "medications": "Medications:",
+      "cancel": "Cancel",
+      "save": "Save List",
+      "saving": "Saving..."
+    },
+    "noLists": "No saved lists yet. Save your current selection to get started.",
+    "signInRequired": "Sign in to save and load medication lists",
+    "medications": "{{count}} medication(s)",
+    "listSaved": "List saved",
+    "listLoaded": "List loaded",
+    "listDeleted": "List deleted"
+  },
+  "history": {
+    "title": "Recent Analyses",
+    "signInRequired": "Sign in to view interaction history",
+    "noHistory": "No analysis history yet. Your past analyses will appear here."
+  },
+  "dosage": {
+    "title": "My Medications",
+    "add": "Add",
+    "signInRequired": "Sign in to track medication dosages",
+    "noMedications": "No medications tracked yet. Add your first medication above.",
+    "dialog": {
+      "addTitle": "Add Medication",
+      "editTitle": "Edit Medication",
+      "addDescription": "Add a new medication to track its dosage.",
+      "editDescription": "Update the dosage information for this medication.",
+      "drugName": "Drug Name",
+      "dosage": "Dosage",
+      "frequency": "Frequency",
+      "startDate": "Start Date",
+      "notes": "Notes (optional)",
+      "cancel": "Cancel",
+      "add": "Add Medication",
+      "update": "Update",
+      "saving": "Saving..."
+    }
+  },
+  "drugInfo": {
+    "title": "Drug Information",
+    "loading": "Loading drug information...",
+    "overview": "Overview",
+    "sideEffects": "Common Side Effects",
+    "contraindications": "Contraindications",
+    "dosingGuidelines": "Dosing Guidelines",
+    "warnings": "Warnings & Precautions",
+    "checkInteractions": "Check Interactions"
+  },
+  "about": {
+    "title": "About this tool",
+    "description": "This tool uses AI-powered analysis with data from FDA and medical databases. Results should be verified by healthcare professionals."
+  },
+  "export": {
+    "button": "Export PDF",
+    "exporting": "Exporting...",
+    "success": "Report exported",
+    "successDescription": "PDF report has been downloaded successfully."
+  },
+  "severity": {
+    "critical": "Critical",
+    "major": "Major",
+    "moderate": "Moderate",
+    "minor": "Minor"
+  },
+  "confidence": {
+    "high": "High Confidence",
+    "medium": "Medium Confidence",
+    "low": "Low Confidence"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close"
+  }
+}
