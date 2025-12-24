@@ -28,7 +28,12 @@ Your AI logic lives in a "Supabase Edge Function". It needs to be uploaded to th
     *   Copy the **Reference ID** (it looks like `abcdefghijklmnop`).
     *   Run this command in your terminal:
         ```powershell
-        npx supabase link --project-ref <YOUR_REFERENCE_ID>
+        npx supabase login
+        ```
+    *   *Follow the browser prompts to log in.*
+    *   Then link your project (ID: oajvwvctrzbmflnsomju):
+        ```powershell
+        npx supabase link --project-ref oajvwvctrzbmflnsomju
         ```
     *   *Enter your database password if asked.*
 
