@@ -577,11 +577,10 @@ const InteractionChecker = () => {
               )}
             </CardContent>
           </Card>
-        </div >
-    </div >
-      </main >
+        </div>
+      </main>
 
-  <Footer />
+      <Footer />
 
 
     </div >
